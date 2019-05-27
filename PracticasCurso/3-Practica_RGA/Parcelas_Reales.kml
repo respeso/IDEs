@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>Parcelas_Reales</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3.66526445693072,42.3445687567269 -3.6657417525122,42.3447141090986 -3.66566407012106,42.3448462140299 -3.66546583744676,42.3447858458888 -3.66533613337385,42.3447463466339 -3.66529076356782,42.344795602314 -3.66513038764651,42.3447143091351 -3.66526445693072,42.3445687567269</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3.66513038764651,42.3447143091351 -3.6652907635368,42.3447956023655 -3.66516762410847,42.344929410183 -3.66531466555408,42.3449833763406 -3.66552340238397,42.3450598609798 -3.66542674709686,42.3451851568598 -3.66488124373457,42.3449852351753 -3.66513038764651,42.3447143091351</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
